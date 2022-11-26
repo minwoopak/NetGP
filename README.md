@@ -36,13 +36,23 @@ rdkit 2022.3.1.1
 ```
 The above command outputs gene perturbation profile to `Data/model_input/netGP_profile.out`  
 (the extracted gene perturbation profile used in the paper is: `Data/model_input/iterative_enrich_np_consensus.tsv`)
-The input to NetGP are: 'Cell line gene expression data', 'Drug data', 'STRING template network'.
+The input to NetGP are: 'Cell line gene expression data', 'Drug data', 'STRING template network'.  
 (STRING template network can be obtained from [STRING_database](https://string-db.org/cgi/download?sessionId=bJ9NZpNP7Bn4&species_text=Homo+sapiens).  
 The gene names have to be converted from ensembl IDs to gene symbols.)
 
  
  ## 2. Drug Target Integration for Drug Response Prediction
+ The extracted gene perturbation profile can be integrated to any existing deep learning models.  
+ The "2_DrugTarget_Integration_for_Drug_Response_Prediction" directory currently contains the code to train [DeepTTA](https://academic.oup.com/bib/article/23/3/bbac100/6554594) model as an example with and without the gene perturbation profile integration.  
  
+ The example commands for run the training are the following:
+ ```bash
+ # Train DeepTTA without gene perturbation profile integration (Original model)
+ python train_deeptta.py --split_type both --response_type IC50 --device 0
  
+ # Train DeepTTA with gene perturbation profile integration
+ python train_deeptta_netgp.py --split_type both --response_type IC50 --device 0
+
+ ```
  
  
