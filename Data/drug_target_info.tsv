@@ -1,0 +1,620 @@
+gene_name	drug_id	drug_name	Target pathway
+ABL1	DB00619	Imatinib	
+ABL1	DB01254	Dasatinib	
+ABL1	DB04868	Nilotinib	
+ABL1	DB06616	Bosutinib	
+ABL1	DB08901	Ponatinib	
+FLT4	DB00398	Sorafenib	
+FLT4	DB01268	Sunitinib	
+FLT4	DB06080	Linifanib	
+FLT4	DB06589	Pazopanib	
+FLT4	DB06626	Axitinib	
+FLT4	DB11800	Tivozanib	
+TUBB1	DB01229	Paclitaxel	
+TUBB1	DB01248	Docetaxel	
+FLT1	DB00398	Sorafenib	
+FLT1	DB01268	Sunitinib	
+FLT1	DB05913	OSI-930	
+FLT1	DB06080	Linifanib	
+FLT1	DB06589	Pazopanib	
+FLT1	DB06626	Axitinib	
+FLT1	DB11800	Tivozanib	
+INSR	DB06075	Linsitinib	
+INSR	DB15399	BMS-754807	
+RAF1	DB00398	Sorafenib	
+RAF1	DB08912	Dabrafenib	
+RXRB	DB00307	Bexarotene	
+RXRB	DB00755	Tretinoin	
+KCNH2	DB00675	Tamoxifen	
+TOP1MT	DB00762	Irinotecan	
+TOP1MT	DB01030	Topotecan	
+CHRM1	DB02010	Staurosporine	
+POLB	DB00987	Cytarabine	
+ESR1	DB00675	Tamoxifen	
+ESR1	DB00947	Fulvestrant	
+AR	DB00675	Tamoxifen	
+AR	DB01128	Bicalutamide	
+TUBB	DB00361	Vinorelbine	
+TUBB	DB00541	Vincristine	
+TUBB	DB00570	Vinblastine	
+RARG	DB00755	Tretinoin	
+FLT3	DB00398	Sorafenib	
+FLT3	DB01268	Sunitinib	
+FLT3	DB06080	Linifanib	
+FLT3	DB06469	Lestaurtinib	
+FLT3	DB06595	Midostaurin	
+FLT3	DB08901	Ponatinib	
+FLT3	DB11800	Tivozanib	
+FLT3	DB12500	Fedratinib	
+FLT3	DB12742	Amuvatinib	
+FLT3	DB12874	Quizartinib	
+LIG3	DB00290	Bleomycin	
+LIG1	DB00290	Bleomycin	
+PDGFRB	DB00398	Sorafenib	
+PDGFRB	DB00619	Imatinib	
+PDGFRB	DB01254	Dasatinib	
+PDGFRB	DB01268	Sunitinib	
+PDGFRB	DB06589	Pazopanib	
+PDGFRB	DB06595	Midostaurin	
+PDGFRB	DB11800	Tivozanib	
+RARB	DB00755	Tretinoin	
+BCL2	DB01229	Paclitaxel	
+BCL2	DB01248	Docetaxel	
+BCL2	DB11581	Venetoclax	
+BCL2	DB12340	Navitoclax	
+PTGS2	DB00480	Lenalidomide	
+PTGS2	DB11752	Bryostatin 1	
+RBP4	DB00755	Tretinoin	
+TYMS	DB00441	Gemcitabine	
+TYMS	DB00563	Methotrexate	
+TYMS	DB00642	Pemetrexed	
+RRM1	DB00441	Gemcitabine	
+RRM1	DB01073	Fludarabine	
+DHFR	DB00205	Pyrimethamine	
+DHFR	DB00563	Methotrexate	
+DHFR	DB00642	Pemetrexed	
+ALK	DB08865	Crizotinib	
+ALK	DB11363	Alectinib	
+KDR	DB00398	Sorafenib	
+KDR	DB01268	Sunitinib	
+KDR	DB04849	Cediranib	
+KDR	DB06080	Linifanib	
+KDR	DB06589	Pazopanib	
+KDR	DB06595	Midostaurin	
+KDR	DB06626	Axitinib	
+KDR	DB08875	Cabozantinib	
+KDR	DB08901	Ponatinib	
+KDR	DB11800	Tivozanib	
+KDR	DB12307	Foretinib	
+PPAT	DB01254	Dasatinib	
+DHODH	DB01097	Leflunomide	
+RXRA	DB00307	Bexarotene	
+RXRA	DB00755	Tretinoin	
+AKT1	DB06486	Enzastaurin	
+ABL2	DB01254	Dasatinib	
+CDK15	DB06486	Enzastaurin	
+KIT	DB00398	Sorafenib	
+KIT	DB00619	Imatinib	
+KIT	DB01254	Dasatinib	
+KIT	DB01268	Sunitinib	
+KIT	DB04868	Nilotinib	
+KIT	DB05913	OSI-930	
+KIT	DB06080	Linifanib	
+KIT	DB06589	Pazopanib	
+KIT	DB06595	Midostaurin	
+KIT	DB08901	Ponatinib	
+KIT	DB11800	Tivozanib	
+KIT	DB12742	Amuvatinib	
+TF	DB00515	Cisplatin	
+ERBB2	DB01259	Lapatinib	
+ERBB2	DB08916	Afatinib	
+ALDH1A2	DB00755	Tretinoin	
+POLA1	DB01073	Fludarabine	
+POLA1	DB01280	Nelarabine	
+ALDH1A1	DB00755	Tretinoin	
+BRAF	DB00398	Sorafenib	
+BRAF	DB06999	PLX-4720	
+BRAF	DB08912	Dabrafenib	
+CMPK1	DB00441	Gemcitabine	
+GSR	DB00262	Carmustine	
+RARRES1	DB00755	Tretinoin	
+RARA	DB00755	Tretinoin	
+PRKAA1	DB00914	Phenformin	
+SHBG	DB00675	Tamoxifen	
+FGF1	DB06589	Pazopanib	
+GPRC5A	DB00755	Tretinoin	
+TNF	DB05470	VX-702	
+TNF	DB11752	Bryostatin 1	
+RXRG	DB00307	Bexarotene	
+RXRG	DB00755	Tretinoin	
+TOP2A	DB00444	Teniposide	
+TOP2A	DB00773	Etoposide	
+TOP2A	DB00997	Doxorubicin	
+TOP2A	DB01204	Mitoxantrone	
+FGFR2	DB08901	Ponatinib	
+EGFR	DB00317	Gefitinib	
+EGFR	DB00530	Erlotinib	
+EGFR	DB01259	Lapatinib	
+EGFR	DB05524	Pelitinib	
+EGFR	DB08916	Afatinib	
+EGFR	DB09330	Osimertinib	
+ESR2	DB00675	Tamoxifen	
+SRC	DB01254	Dasatinib	
+SRC	DB06616	Bosutinib	
+SRC	DB08901	Ponatinib	
+FYN	DB01254	Dasatinib	
+YES1	DB01254	Dasatinib	
+EPHA2	DB01254	Dasatinib	
+LCK	DB01254	Dasatinib	
+LCK	DB02010	Staurosporine	
+LCK	DB08901	Ponatinib	
+CD86	DB11752	Bryostatin 1	
+PDGFRA	DB00619	Imatinib	
+PDGFRA	DB01268	Sunitinib	
+PDGFRA	DB06589	Pazopanib	
+PDGFRA	DB06595	Midostaurin	
+PDGFRA	DB08901	Ponatinib	
+PDGFRA	DB11800	Tivozanib	
+PDGFRA	DB12742	Amuvatinib	
+CSF1R	DB00619	Imatinib	
+CSF1R	DB01268	Sunitinib	
+CSF1R	DB06080	Linifanib	
+IGF1R	DB06075	Linsitinib	
+IGF1R	DB15399	BMS-754807	
+MAP2K1	DB06616	Bosutinib	
+MAP2K1	DB08911	Trametinib	
+MAP2K1	DB11689	Selumetinib	
+PTK2B	DB01097	Leflunomide	
+PRKCB	DB06486	Enzastaurin	
+GART	DB00642	Pemetrexed	
+STAT5B	DB01254	Dasatinib	
+A2M	DB00515	Cisplatin	
+MET	DB08865	Crizotinib	
+MET	DB08875	Cabozantinib	
+MET	DB11800	Tivozanib	
+MET	DB12742	Amuvatinib	
+IL6	DB05470	VX-702	
+MAPK1	DB06195	Seliciclib	
+MAPK1	DB13930	Ulixertinib	
+PIK3R1	DB06486	Enzastaurin	
+NR1I2	DB00530	Erlotinib	
+NR1I2	DB00531	Cyclophosphamide	
+NR1I2	DB00675	Tamoxifen	
+NR1I2	DB01229	Paclitaxel	
+NR1I2	DB01248	Docetaxel	
+TOP1	DB00762	Irinotecan	
+TOP1	DB01030	Topotecan	
+TOP1	DB04690	Camptothecin	
+AURKA	DB05220	Alisertib	
+AURKA	DB06486	Enzastaurin	
+MAPK14	DB01254	Dasatinib	
+MAPK14	DB03044	Doramapimod	
+MAPK14	DB05470	VX-702	
+CCND1	DB11752	Bryostatin 1	
+NTRK1	DB00619	Imatinib	
+JUN	DB00570	Vinblastine	
+IL1B	DB05470	VX-702	
+MAPK3	DB06195	Seliciclib	
+MAPK3	DB13930	Ulixertinib	
+GSK3B	DB02010	Staurosporine	
+CDK2	DB02010	Staurosporine	
+CDK2	DB06195	Seliciclib	
+CDK2	DB06616	Bosutinib	
+CDK2	DB08142	AT-7519	
+CDK1	DB06195	Seliciclib	
+CDK1	DB08142	AT-7519	
+MAP2	DB01229	Paclitaxel	
+MAP2	DB01248	Docetaxel	
+RET	DB00619	Imatinib	
+HSP90AA1	DB05134	Tanespimycin	
+HSP90AA1	DB07594	CCT-018159	
+HGF	DB12307	Foretinib	
+DDR1	DB00619	Imatinib	
+PRKCA	DB06595	Midostaurin	
+PRKCA	DB11752	Bryostatin 1	
+HEXB	DB00205	Pyrimethamine	
+HPGDS	DB00755	Tretinoin	
+PDPK1	DB02010	Staurosporine	
+FGFR4	DB08901	Ponatinib	
+ATIC	DB00563	Methotrexate	
+ATIC	DB00642	Pemetrexed	
+PIM1	DB02010	Staurosporine	
+BTK	DB01254	Dasatinib	
+BTK	DB09053	Ibrutinib	
+ZAP70	DB02010	Staurosporine	
+PIK3CG	DB02010	Staurosporine	
+SYK	DB02010	Staurosporine	
+TUBA1A	DB00570	Vinblastine	
+ITK	DB02010	Staurosporine	
+ITK	DB06589	Pazopanib	
+CSK	DB01254	Dasatinib	
+CSK	DB02010	Staurosporine	
+MAPKAPK2	DB02010	Staurosporine	
+PRKCQ	DB02010	Staurosporine	
+TUBA4A	DB00541	Vincristine	
+HCK	DB06616	Bosutinib	
+HDAC8	DB02546	Vorinostat	
+HDAC8	DB04297	Trichostatin A	
+PARP1	DB07232	Veliparib	
+PARP1	DB09074	Olaparib	
+PARP1	DB11760	Talazoparib	
+PARP1	DB11793	Niraparib	
+PARP1	DB12332	Rucaparib	
+HSP90AB1	DB05134	Tanespimycin	
+HSP90AB1	DB07594	CCT-018159	
+CDK7	DB06195	Seliciclib	
+ESRRG	DB00675	Tamoxifen	
+FGFR1	DB00398	Sorafenib	
+FGFR1	DB08901	Ponatinib	
+FGFR1	DB11800	Tivozanib	
+FGFR3	DB06589	Pazopanib	
+FGFR3	DB08901	Ponatinib	
+CDK9	DB06195	Seliciclib	
+CDK6	DB09073	Palbociclib	
+CDK6	DB11730	Ribociclib	
+CDK4	DB09073	Palbociclib	
+CDK4	DB11730	Ribociclib	
+PSMB1	DB00188	Bortezomib	
+PSMB5	DB00188	Bortezomib	
+HDAC1	DB02546	Vorinostat	
+HDAC2	DB02546	Vorinostat	
+HDAC3	DB02546	Vorinostat	
+HDAC6	DB02546	Vorinostat	
+FNTB	DB04960	Tipifarnib	
+PIK3CA	DB12015	Alpelisib	
+MTOR	DB06287	Temsirolimus	
+PIK3CD	DB09054	Idelalisib	
+JAK2	DB08877	Ruxolitinib	
+JAK2	DB12500	Fedratinib	
+RET	DB00398	Sorafenib	
+RET	DB08875	Cabozantinib	
+RET	DB08901	Ponatinib	
+RET	DB12742	Amuvatinib	
+RAD51	DB12742	Amuvatinib	
+NAMPT	DB12731	Daporinad	
+TOP2B	DB00773	Etoposide	
+KCNJ8	DB00914	Phenformin	
+EPHB4	DB01254	Dasatinib	
+SIRT1	DB13978	Selisistat	
+DCK	DB01073	Fludarabine	
+ATOX1	DB00515	Cisplatin	
+WEE1	DB11740	MK-1775	
+TEK	DB08901	Ponatinib	
+TEK	DB11800	Tivozanib	
+CHEK2	DB06486	Enzastaurin	
+CHEK1	DB06486	Enzastaurin	
+CDH5	DB00480	Lenalidomide	
+AURKB	DB06486	Enzastaurin	
+BCL2L2	DB12340	Navitoclax	
+BAD	DB12340	Navitoclax	
+PRKCE	DB11752	Bryostatin 1	
+CASP8	DB11752	Bryostatin 1	
+MAPT	DB01229	Paclitaxel	
+MAPT	DB01248	Docetaxel	
+MAP4	DB01229	Paclitaxel	
+MAP4	DB01248	Docetaxel	
+CYP26A1	DB00755	Tretinoin	
+JAK3	DB08877	Ruxolitinib	
+CSNK1E	DB06195	Seliciclib	
+TNFSF11	DB00480	Lenalidomide	
+HDAC7	DB04297	Trichostatin A	
+TUBD1	DB00570	Vinblastine	
+TUBE1	DB00570	Vinblastine	
+TUBG1	DB00570	Vinblastine	
+AHR	DB01097	Leflunomide	
+HSPA8	DB01254	Dasatinib	
+MAPK8	DB00675	Tamoxifen	
+PARP2	DB07232	Veliparib	
+PARP2	DB09074	Olaparib	
+PARP2	DB11760	Talazoparib	
+PARP2	DB11793	Niraparib	
+PARP2	DB12332	Rucaparib	
+PARP3	DB09074	Olaparib	
+PARP3	DB12332	Rucaparib	
+JAK1	DB08877	Ruxolitinib	
+JAK1	DB12500	Fedratinib	
+TYK2	DB08877	Ruxolitinib	
+PDK4	DB00755	Tretinoin	
+LYN	DB01254	Dasatinib	
+LYN	DB06616	Bosutinib	
+LYN	DB08901	Ponatinib	
+CAMK2G	DB06616	Bosutinib	
+SMO	DB08828	Vismodegib	
+SH2B3	DB06589	Pazopanib	
+PTK6	DB11800	Tivozanib	
+FRK	DB01254	Dasatinib	
+BCR	DB00619	Imatinib	
+BCR	DB01254	Dasatinib	
+BCR	DB06616	Bosutinib	
+BCR	DB08901	Ponatinib	
+MAP2K2	DB06616	Bosutinib	
+MAP2K2	DB08911	Trametinib	
+MAP2K2	DB11689	Selumetinib	
+MAP3K2	DB06616	Bosutinib	
+CRBN	DB00480	Lenalidomide	
+SIK1	DB08912	Dabrafenib	
+NEK11	DB08912	Dabrafenib	
+LIMK1	DB08912	Dabrafenib	
+ERBB4	DB08916	Afatinib	
+EBP	DB00675	Tamoxifen	
+PRKCA	DB00675	Tamoxifen	
+PRKCB	DB00675	Tamoxifen	
+PRKCD	DB00675	Tamoxifen	
+PRKCE	DB00675	Tamoxifen	
+PRKCG	DB00675	Tamoxifen	
+PRKCI	DB00675	Tamoxifen	
+PRKCQ	DB00675	Tamoxifen	
+PRKCZ	DB00675	Tamoxifen	
+TOP2A	DB00970	Dactinomycin	
+TOP2B	DB00970	Dactinomycin	
+FGR	DB01254	Dasatinib	
+EPHA5	DB01254	Dasatinib	
+ZAK	DB01254	Dasatinib	
+NOLC1	DB00997	Doxorubicin	
+LCN1	DB00755	Tretinoin	
+OBP2A	DB00755	Tretinoin	
+HDAC1	DB05015	Belinostat	
+HDAC1	DB06603	Panobinostat	
+HDAC10	DB05015	Belinostat	
+HDAC10	DB06603	Panobinostat	
+HDAC11	DB05015	Belinostat	
+HDAC11	DB06603	Panobinostat	
+HDAC2	DB05015	Belinostat	
+HDAC2	DB06603	Panobinostat	
+HDAC3	DB05015	Belinostat	
+HDAC3	DB06603	Panobinostat	
+HDAC4	DB05015	Belinostat	
+HDAC4	DB06603	Panobinostat	
+HDAC5	DB05015	Belinostat	
+HDAC5	DB06603	Panobinostat	
+HDAC6	DB05015	Belinostat	
+HDAC6	DB06603	Panobinostat	
+HDAC7	DB05015	Belinostat	
+HDAC7	DB06603	Panobinostat	
+HDAC8	DB05015	Belinostat	
+HDAC8	DB06603	Panobinostat	
+HDAC9	DB05015	Belinostat	
+HDAC9	DB06603	Panobinostat	
+MPG	DB00515	Cisplatin	
+NR4A3	DB01254	Dasatinib	
+CYP26C1	DB00755	Tretinoin	
+CYP26B1	DB00755	Tretinoin	
+PRKD1	DB11752	Bryostatin 1	
+BCL2		ABT737	Apoptosis regulation
+AKT1		AKT inhibitor VIII	PI3K/MTOR signaling
+AKT2		AKT inhibitor VIII	PI3K/MTOR signaling
+AKT3		AKT inhibitor VIII	PI3K/MTOR signaling
+HDAC1		AR-42	Chromatin histone acetylation
+CDK4		AT-7519	Cell cycle
+CDK6		AT-7519	Cell cycle
+CDK9		AT-7519	Cell cycle
+AKT1		AT13148	PI3K/MTOR signaling
+TNKS2		AZ6102	WNT signaling
+JAK2		AZ960	Other, kinases
+JAK3		AZ960	Other, kinases
+PIM1		AZD1208	Other, kinases
+PIM2		AZD1208	Other, kinases
+PIM3		AZD1208	Other, kinases
+NTRK1		AZD1332	RTK signaling
+NTRK2		AZD1332	RTK signaling
+NTRK3		AZD1332	RTK signaling
+EGFR		AZD3759	EGFR signaling
+FGFR2		AZD4547	RTK signaling
+FGFR3		AZD4547	RTK signaling
+FGFR1		AZD4547	RTK signaling
+BRD4		AZD5153	Chromatin other
+AKT1		AZD5363	Other, kinases
+AKT2		AZD5363	Other, kinases
+AKT3		AZD5363	Other, kinases
+ROCK2		AZD5363	Other, kinases
+CDK2		AZD5438	Cell cycle
+XIAP		AZD5582	Apoptosis regulation
+MCL1		AZD5991	Apoptosis regulation
+ATR		AZD6738	Genome integrity
+CHEK1		AZD7762	Cell cycle
+CHEK2		AZD7762	Cell cycle
+AKT1		Afuresertib	PI3K/MTOR signaling
+AKT2		Afuresertib	PI3K/MTOR signaling
+AKT3		Afuresertib	PI3K/MTOR signaling
+KIT		Axitinib	RTK signaling
+SYK		BAY-61-3606	Other, kinases
+PLK1		BI-2536	Cell cycle
+PLK2		BI-2536	Cell cycle
+PLK3		BI-2536	Cell cycle
+TERT		BIBR-1532	Genome integrity
+IGF1R		BMS-536924	IGF1R signaling
+TBK1		BX795	Other, kinases
+AURKB		BX795	Other, kinases
+AURKC		BX795	Other, kinases
+TEC		Bosutinib	Other, kinases
+HDAC1		CAY10603	Chromatin histone acetylation
+HDAC6		CAY10603	Chromatin histone acetylation
+PPM1D		CCT007093	Cell cycle
+GSK3A		CHIR-99021	WNT signaling
+GSK3B		CHIR-99021	WNT signaling
+EGFR		CI-1033	RTK signaling
+ERBB2		CI-1033	RTK signaling
+ERBB4		CI-1033	RTK signaling
+ATM		CP466722	Genome integrity
+ERBB2		CP724714	RTK signaling
+EGFR		CUDC-101	Other
+ERBB2		CUDC-101	Other
+KIT		Cabozantinib	RTK signaling
+FLT1		Cabozantinib	RTK signaling
+FLT3		Cabozantinib	RTK signaling
+FLT4		Cabozantinib	RTK signaling
+AXL		Cabozantinib	RTK signaling
+FLT1		Cediranib	RTK signaling
+FLT3		Cediranib	RTK signaling
+FLT4		Cediranib	RTK signaling
+KIT		Cediranib	RTK signaling
+PDGFRB		Cediranib	RTK signaling
+ROS1		Crizotinib	RTK signaling
+SMO		Cyclopamine	Other
+HDAC1		Dacinostat	Chromatin histone acetylation
+CDK1		Dinaciclib	Cell cycle
+CDK2		Dinaciclib	Cell cycle
+CDK5		Dinaciclib	Cell cycle
+CDK9		Dinaciclib	Cell cycle
+RAC1		EHT-1864	Cytoskeleton
+RAC2		EHT-1864	Cytoskeleton
+RAC3		EHT-1864	Cytoskeleton
+DOT1L		EPZ004777	Chromatin histone methylation
+DOT1L		EPZ5676	Chromatin histone methylation
+XIAP		Embelin	Apoptosis regulation
+HDAC1		Entinostat	Chromatin histone acetylation
+HDAC3		Entinostat	Chromatin histone acetylation
+SYK		Entospletinib	Other, kinases
+MET		Foretinib	RTK signaling
+FGFR1		Foretinib	RTK signaling
+EGFR		Foretinib	RTK signaling
+AURKA		GSK1070916	Mitosis
+AURKC		GSK1070916	Mitosis
+IGF1R		GSK1904529A	RTK signaling
+LRRK2		GSK2578215A	Other, kinases
+ROCK1		GSK269962A	Cytoskeleton
+ROCK2		GSK269962A	Cytoskeleton
+EZH2		GSK343	Chromatin histone methylation
+ROCK1		GSK429286A	Cytoskeleton
+ROCK2		GSK429286A	Cytoskeleton
+SGK2		GSK650394	Other, kinases
+SGK3		GSK650394	Other, kinases
+AKT1		GSK690693	PI3K/MTOR signaling
+AKT2		GSK690693	PI3K/MTOR signaling
+AKT3		GSK690693	PI3K/MTOR signaling
+CSF1R		GW-2580	RTK signaling
+NTRK1		GW441756	RTK signaling
+BRAF		HG6-64-1	ERK MAPK signaling
+BRD2		I-BET-762	Chromatin other
+BRD3		I-BET-762	Chromatin other
+BRD4		I-BET-762	Chromatin other
+BRD9		I-BRD9	Chromatin other
+EGLN1		IOX2	Other
+PAK1		IPA-3	Cytoskeleton
+PORCN		IWP-2	WNT signaling
+AKT1		Ipatasertib	PI3K/MTOR signaling
+AKT3		Ipatasertib	PI3K/MTOR signaling
+BRD2		JQ1	Chromatin other
+BRD3		JQ1	Chromatin other
+BRD4		JQ1	Chromatin other
+BRDT		JQ1	Chromatin other
+LCK		JW-7-24-1	Other, kinases
+MAP3K8		KIN001-266	ERK MAPK signaling
+CDK9		KIN001-270	Cell cycle
+ATM		KU-55933	Genome integrity
+XIAP		LCL161	Apoptosis regulation
+BTK		LFM-A13	Other, kinases
+PORCN		LGK974	WNT signaling
+TGFB1		LY2109761	Other
+JAK2		Lestaurtinib	Other, kinases
+NTRK1		Lestaurtinib	Other, kinases
+NTRK2		Lestaurtinib	Other, kinases
+NTRK3		Lestaurtinib	Other, kinases
+CAPN1		MG-132	Protein stability and degradation
+MCL1		MIM1	Apoptosis regulation
+TP53		MIRA-1	p53 pathway
+PLK1		MK-1775	Cell cycle
+AKT1		MK-2206	PI3K/MTOR signaling
+AKT2		MK-2206	PI3K/MTOR signaling
+CHEK1		MK-8776	Cell cycle
+CHEK2		MK-8776	Cell cycle
+CDK2		MK-8776	Cell cycle
+USP1		ML323	Protein stability and degradation
+TNKS2		MN-64	WNT signaling
+KIT		Masitinib	RTK signaling
+PDGFRA		Masitinib	RTK signaling
+PDGFRB		Masitinib	RTK signaling
+FLT1		Midostaurin	Other
+RET		Motesanib	RTK signaling
+KIT		Motesanib	RTK signaling
+MAP4K2		NG-25	Other, kinases
+PLK3		NPK76-II-72-1	Cell cycle
+MDM4		NSC-207895	p53 pathway
+IGF1R		NVP-ADW742	IGF1R signaling
+EPHB4		NVP-BHG712	RTK signaling
+BRD2		OTX015	Chromatin other
+BRD3		OTX015	Chromatin other
+BRD4		OTX015	Chromatin other
+BCL2		Obatoclax Mesylate	Apoptosis regulation
+MCL1		Obatoclax Mesylate	Apoptosis regulation
+USP7		P22077	Protein stability and degradation
+USP47		P22077	Protein stability and degradation
+HDAC8		PCI-34051	Chromatin histone acetylation
+HDAC6		PCI-34051	Chromatin histone acetylation
+HDAC1		PCI-34051	Chromatin histone acetylation
+FGFR1		PD173074	RTK signaling
+FGFR2		PD173074	RTK signaling
+FGFR3		PD173074	RTK signaling
+BRD4		PFI-1	Chromatin other
+SMARCA2		PFI-3	Chromatin other
+SMARCA4		PFI-3	Chromatin other
+MET		PHA-665752	RTK signaling
+CDK2		PHA-793887	Cell cycle
+CDK7		PHA-793887	Cell cycle
+CDK5		PHA-793887	Cell cycle
+DAPK3		PI-103	Other, kinases
+CLK4		PI-103	Other, kinases
+PIM3		PI-103	Other, kinases
+HIPK2		PI-103	Other, kinases
+SYK		PRT062607	Other, kinases
+HDAC1		Parthenolide	Chromatin histone acetylation
+CSF1R		Pazopanib	RTK signaling
+BTK		QL-X-138	Other, kinases
+BTK		QL-XII-47	Other, kinases
+BMX		QL-XII-47	Other, kinases
+ARFGAP1		QS11	Other
+CDK1		RO-3306	Cell cycle
+BRD4		RVX-208	Chromatin other
+KIF11		S-Trityl-L-cysteine	Mitosis
+GSK3A		SB216763	WNT signaling
+GSK3B		SB216763	WNT signaling
+TGFBR1		SB505124	RTK signaling
+ACVR1B		SB505124	RTK signaling
+ACVR1C		SB505124	RTK signaling
+BRAF		SB590885	ERK MAPK signaling
+DOT1L		SGC0946	Chromatin histone methylation
+AURKB		SL0101	Other, kinases
+PIM1		SL0101	Other, kinases
+PIM3		SL0101	Other, kinases
+TOP1		SN-38	DNA replication
+MET		SU11274	RTK signaling
+BCL2		Sabutoclax	Apoptosis regulation
+MCL1		Sabutoclax	Apoptosis regulation
+EGFR		Sapitinib	EGFR signaling
+ERBB2		Sapitinib	EGFR signaling
+ERBB3		Sapitinib	EGFR signaling
+MET		Savolitinib	RTK signaling
+BIRC5		Sepantronium bromide	Apoptosis regulation
+MDM2		Serdemetan	p53 pathway
+RET		Sunitinib	RTK signaling
+BCL2		TW 37	Apoptosis regulation
+MCL1		TW 37	Apoptosis regulation
+AURKA		Tozasertib	Mitosis
+AURKB		Tozasertib	Mitosis
+AURKC		Tozasertib	Mitosis
+HDAC1		Tubastatin A	Chromatin histone acetylation
+HDAC6		Tubastatin A	Chromatin histone acetylation
+HDAC8		Tubastatin A	Chromatin histone acetylation
+MCL1		UMI-77	Apoptosis regulation
+L3MBTL3		UNC1215	Chromatin other
+AKT1		Uprosertib	PI3K/MTOR signaling
+AKT2		Uprosertib	PI3K/MTOR signaling
+AKT3		Uprosertib	PI3K/MTOR signaling
+ATR		VE-822	Genome integrity
+ATR		VE821	Genome integrity
+JAK3		WHI-P97	Other, kinases
+TNKS2		WIKI4	WNT signaling
+SRC		WZ3105	Other
+ROCK2		WZ3105	Other
+NTRK2		WZ3105	Other
+FLT3		WZ3105	Other
+IRAK1		WZ3105	Other
+NUAK1		WZ4003	Other, kinases
+NUAK2		WZ4003	Other, kinases
+WEE1		Wee1 Inhibitor	Cell cycle
+CHEK1		Wee1 Inhibitor	Cell cycle
+PORCN		Wnt-C59	WNT signaling
+TNKS2		XAV939	WNT signaling
+PIKFYVE		YM201636	PI3K/MTOR signaling
+AURKA		ZM447439	Mitosis
+AURKB		ZM447439	Mitosis
