@@ -37,7 +37,8 @@ rdkit 2022.3.1.1
 The above command outputs gene perturbation profile to `Data/model_input/netGP_profile.out`  
 (the extracted gene perturbation profile used in the paper is: `Data/model_input/iterative_enrich_np_consensus.tsv`)
 The input to NetGP are: 'Cell line gene expression data', 'Drug data', 'STRING template network'.
-(STRING template network can be obtained from [STRING_database](https://string-db.org/cgi/download?sessionId=bJ9NZpNP7Bn4&species_text=Homo+sapiens))
+(STRING template network can be obtained from [STRING_database](https://string-db.org/cgi/download?sessionId=bJ9NZpNP7Bn4&species_text=Homo+sapiens).  
+The gene names have to be converted from ensembl IDs to gene symbols.)
 
  
  ## 2. Drug Target Integration for Drug Response Prediction
