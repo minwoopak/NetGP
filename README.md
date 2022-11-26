@@ -55,4 +55,5 @@ The gene names have to be converted from ensembl IDs to gene symbols.)
 
  ```
  
+ The results of other models presented in the paper can be found in `./2_DrugTarget_Integration_for_Drug_Response_Prediction/Results/`.
  
