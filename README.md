@@ -45,7 +45,7 @@ The gene names have to be converted from ensembl IDs to gene symbols.)
  The extracted gene perturbation profile can be integrated to any existing deep learning models.  
  The "2_DrugTarget_Integration_for_Drug_Response_Prediction" directory currently contains the code to train [DeepTTA](https://academic.oup.com/bib/article/23/3/bbac100/6554594) model as an example with and without the gene perturbation profile integration.  
  
- The example commands for run the training are the following:
+ The example commands to run the training are the following:
  ```bash
  # Train DeepTTA without gene perturbation profile integration (Original model)
  python train_deeptta.py --split_type both --response_type IC50 --device 0
