@@ -26,7 +26,7 @@ def createFolder(directory):
 parser = argparse.ArgumentParser()
 # args, _ = parser.parse_known_args()
 
-parser.add_argument('--workdir', type=str, default="/data/project/minwoo/Drug_recommendation/NetGP")
+parser.add_argument('--workdir', type=str, default="/data/project/minwoo/Drug_recommendation/NetGP/2_DrugTarget_Integration_for_Drug_Response_Prediction")
 parser.add_argument('--datadir', type=str, default='/data/project/minwoo/Drug_recommendation/NetGP/Data')
 parser.add_argument('--inputdir', type=str, default='/data/project/minwoo/Drug_recommendation/NetGP/Data/model_input')
 parser.add_argument('--model_setting', type=str, default='DeepTTA')
