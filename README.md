@@ -1,6 +1,8 @@
 # NetGP
 Drug response prediction (DRP) is important for precision medicine to predict how a patient would react to a drug before administration. Existing studies take the cell line transcriptome data, and the chemical structure of drugs as input and predict drug response as IC50 or AUC values. Intuitively, use of drug target interaction (DTI) information can be useful for DRP. However, use of DTI is difficult because existing drug response database such as CCLE and GDSC do not have information about transcriptome after drug treatment. Although transcriptome after drug treatment is not available, if we can compute the perturbation effects by the pharmacologic modulation of target gene, we can utilize the DTI information in CCLE and GDSC. In this study, we proposed a framework that can improve existing deep learning-based DRP models by effectively utilizing drug target information. Our framework includes NetGP, a module to compute gene perturbation scores by the network propagation technique on a PPI network. NetGP produces genes in a ranked list in terms of gene perturbation scores and the ranked genes are input to a MLP to generate a fixed dimension vector for the integration with existing DRP models. This integration is done in a model-agnostic way so that any existing DRP tool can be incorporated. As a result, our framework boosts the performance of existing DRP models, in 44 of 48 comparisons. The performance gains are larger especially for test scenarios with samples with unseen drugs by large margins up to 34% in Pearson correlation coefficient.
 
+![Overview](images/fig1_overview.png)
+
 # Install
 ```
 matplotlib 3.5.1  
@@ -43,17 +45,32 @@ The gene names have to be converted from ensembl IDs to gene symbols.)
  
  ## 2. Drug Target Integration for Drug Response Prediction
  The extracted gene perturbation profile can be integrated to any existing deep learning models.  
- The "2_DrugTarget_Integration_for_Drug_Response_Prediction" directory currently contains the code to train [DeepTTA](https://academic.oup.com/bib/article/23/3/bbac100/6554594) model as an example with and without the gene perturbation profile integration.  
+ The experimental setup is shown in the below image.
+ ![Experimental Setup](images/fig2_experimental_setup.png)
+
+ The "2_DrugTarget_Integration_for_Drug_Response_Prediction" directory contains the codes to train [DeepTTA](https://academic.oup.com/bib/article/23/3/bbac100/6554594), [DEERS](https://www.nature.com/articles/s41598-021-94564-z), [AGW](https://academic.oup.com/bib/article/23/2/bbab534/6501725), and MLP models with and without the gene perturbation profile (from NetGP) integration.  
  
  The example commands to run the training are the following:
  ```bash
- # Train DeepTTA without gene perturbation profile integration (Original model)
+ # Train DEERS without gene perturbation (NetGP) profile integration (Original model)
+ python train_deers.py --split_type both --response_type IC50 --device 0
+
+ # Train DEERS with gene perturbation (NetGP) profile integration
+ python train_deers_netgp.py --split_type both --response_type IC50 --device 0
+
+ # Train DeepTTA without gene perturbation (NetGP) profile integration (Original model)
  python train_deeptta.py --split_type both --response_type IC50 --device 0
  
- # Train DeepTTA with gene perturbation profile integration
+ # Train DeepTTA with gene perturbation (NetGP) profile integration
  python train_deeptta_netgp.py --split_type both --response_type IC50 --device 0
 
  ```
+ 
+ or alternatively, you can run the .sh scripts in the corresponding model directory.
+```bash
+./run_train_deers.sh
+./run_train_deers_netgp.sh
+```
  
  The results of other models presented in the paper can be found in `./2_DrugTarget_Integration_for_Drug_Response_Prediction/Results/`.
  
