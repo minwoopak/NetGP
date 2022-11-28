@@ -52,16 +52,16 @@ The gene names have to be converted from ensembl IDs to gene symbols.)
  
  The example commands to run the training are the following:
  ```bash
- # Train DEERS without gene perturbation (NetGP) profile integration (Original model)
+ # Train DEERS without gene perturbation profile integration (Original model)
  python train_deers.py --split_type both --response_type IC50 --device 0
 
- # Train DEERS with gene perturbation (NetGP) profile integration
+ # Train DEERS with gene perturbation profile integration (with NetGP)
  python train_deers_netgp.py --split_type both --response_type IC50 --device 0
 
- # Train DeepTTA without gene perturbation (NetGP) profile integration (Original model)
+ # Train DeepTTA without gene perturbation profile integration (Original model)
  python train_deeptta.py --split_type both --response_type IC50 --device 0
  
- # Train DeepTTA with gene perturbation (NetGP) profile integration
+ # Train DeepTTA with gene perturbation profile integration (with NetGP)
  python train_deeptta_netgp.py --split_type both --response_type IC50 --device 0
 
  ```
